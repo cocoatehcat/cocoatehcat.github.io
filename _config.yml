@@ -22,7 +22,7 @@ title: Cocoa Site
 email: email@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts for now
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cocoatehcat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # https://cocoatehcat.github.io
 #https://localhost:4000
