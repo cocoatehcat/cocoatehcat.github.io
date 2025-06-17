@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Testing!"
-date:   2025-06-10 224848 +0700
-categories: test
----
-Just checking to see if this bad boy is going to work.
