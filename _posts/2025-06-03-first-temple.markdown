@@ -12,7 +12,7 @@ After being in Thailand for a few days, we could see how the ‘peaceful’ Thai
 
 In the temples, it was a different vibe.
 
-###The Occasion
+The Occasion
 
 The third of June is the current Queen’s birthday (Mrs Suthida Bajrasudhabimalalakshana according to Google). Since we had off work, my friends and I decided to wander to our local temple, right next to Ekkamai station, to pay our respects to Thai culture (and in this case the government).
 
@@ -34,7 +34,7 @@ We exited the building, feeling a sense of peace from the temple. Then, one of m
 
 We continued onwards to behind the temple to find another just as beautiful temple. I am still confused why the two of them are literally three meters apart, but decided not to argue with the fate of the world.
 
-We took of our shoes once more, stepping onto the (warmer) marble. This one did not have as large of an outcropping, so the steps were exposed and I could feel the heat through my socks.
+We took off our shoes once more, stepping onto the (warmer) marble. This one did not have as large of an outcropping, so the steps were exposed and I could feel the heat through my socks.
 
 Inside the temple, once entering through glass doors, we noticed more Buddhas. There were three of the same size, large and beautiful, at the other end of the room. The one corner had a special display for the queen, with more purple flowers. I wish I could do both of these justice. To capture what I had seen is nothing words can describe, and any description I give is a pitiful attempt to explain true beauty. Everything, including my words, pales in comparison.
 
@@ -64,4 +64,4 @@ It was a sight to see.
 
 Not just the pigeons, all of it. It made me realize that even if we do not consciously see it, religion is a major part of Thai’s lives. The people we say there praying showed me that even in silence, there is an enormous impact on your soul.
 
-And other thing I learned is that what I think of culture, what this culture is, is not what I had in mind at all, and I am very excited to learn more over the next eight weeks here.
+And another thing I learned is that what I think of culture, what this culture is, is not what I had in mind at all, and I am very excited to learn more over the next eight weeks here.
