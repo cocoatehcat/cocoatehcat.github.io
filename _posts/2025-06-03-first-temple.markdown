@@ -12,7 +12,7 @@ After being in Thailand for a few days, we could see how the ‘peaceful’ Thai
 
 In the temples, it was a different vibe.
 
-The Occasion
+# The Occasion
 
 The third of June is the current Queen’s birthday (Mrs Suthida Bajrasudhabimalalakshana according to Google). Since we had off work, my friends and I decided to wander to our local temple, right next to Ekkamai station, to pay our respects to Thai culture (and in this case the government).
 
