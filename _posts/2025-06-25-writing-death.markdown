@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "The Death of Long Form Content"
-date:   2025-06-03 233653 +0700
+date:   2025-06-25 233653 +0700
 categories: analysis
 ---
-[Duck Duck Go](https://duckduckgo.com)
-
 One of the things that is important to me as a writer is consuming long form, thoughtful content that really makes one as a reader examine and think critically. However, as life grows and technology matures, writing is becoming a dying art.
 
 Some would not consider writing an art, and to that I refute that music is an art. Poetry is song lyrics. Poetry is writing. Therefore, [writing is an art](https://www.clrn.org/is-writing-an-art/). To string words together thoughtfully, to make comprehensible sounds where in other worlds it would be complete nonsense?
