@@ -27,6 +27,8 @@ It is strange to be in a class with someone all semester (for two semesters, act
 
 And speaking of dessert, we went to a famous ice cream place and I got a milkshake (see below) and it was a nice night talking about life, how men are easily intimidated, and why we love strong women.
 
+![Samosorn Milkshake.](/images/milkshake.png)
+
 And it didn’t hit me until I was home and opened my phone that friends had texted me. That I had a different life outside the world of Bangkok. Ban That Thong was beautiful (a little bit commercialized), and it felt like a dream to be wandering around a place that was so inferentially cultural.
 
 At my apartment, it just felt like a normal apartment. You could notice the Asian influences for sure, the furniture was a little shorter than I was used to, there was a balcony with my washer. My shower did not have a fan, instead you opened a window to let the steam come out, we had no oven because it’s already hot! Why do you have to make it more so?
@@ -46,3 +48,5 @@ I suppose people are right about journaling (if one could call this that). One t
 That might be a me problem though.
 
 Moral of this essay (as I make one up on the spot): cherish all memories. You never know when you’ll experience something like that ever again. And you never get to be 19 a second time.
+
+![A sign in the neighborhood.](/images/btt.png)
