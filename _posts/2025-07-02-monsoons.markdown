@@ -20,7 +20,7 @@ All of the wandering to and from work really is not that bad, it’s only been s
 
 There have only been two times (so far) where the rain has been so bad I got worried about potential death. The first was when some friends and I went to a floating market.
 
-# Klong Lat Mayom Floating Market
+## Klong Lat Mayom Floating Market
 
 The day started with sunny, clear skies (they all start like this, it’s a lie) and my friends and I made the long trek to the (almost) end of the métro line from our humble morning of being at the Grand Palace. Then, after a 20 minute taxi ride, we made it to the Klong Lat Mayom Floating Market.
 
@@ -37,7 +37,10 @@ We kept wandering until we found more boat people, and here was where things sta
 We bought our tickets and got into this small boat. It was just the three of us, two Thai women, and the guy steering the boat. Then we were off.
 
 Leaving the dock, we saw the true length of the market (and it was greater than I expected) while seeing the nature that had been slowly integrating itself with the surrounding area. 
-![Tractor reclaimed to nature](/images/tractor.png)
+
+<p align="center" width="100%">
+    <img width="33%" src="/images/tractor.png" alt="Tractor reclaimed to nature">
+</p>
 
 The more we traveled, the more I noticed that these houses we passed would fit right in back home. Sure, maybe their lawns were a little too messy for the average HOA, but it felt normal. Nothing like the third world country I had led to believe about Thailand and Southeast Asia.
 
@@ -73,7 +76,7 @@ Overall, would not take a speed boat in the rain again. Was actually pretty chil
 
 It still was enlightening because my friends and I saw a bit of culture that we had never experienced before (and may never experience again), but it also made us feel like damp cats wandering around, trying to hide from Mother Nature and how cruel she is. Similar to the aftermath of “There Will Come Soft Rains” (Bradbury), except instead of the rains being soft and acidic from the result of a nuclear bomb, we rather faced a storm that tried to obliterate us with its winds. So I guess not that similar but fits the retro futurism theme?
 
-# The BTS Incident
+## The BTS Incident
 
 The second time Bangkok tried to actively kill me was after I went to my first Thai-Chinese cemetery.
 
@@ -98,7 +101,10 @@ And yet, as we were looking at these headstones, people were just playing tennis
 I was astounded to not be phased by the amount of history literally 10 meters away from them. The jogger looked at us as we were examining a broken grave, before turning away and focusing back on jogging.
 
 I suppose if you see it all the time then it looks normal, but I am not sure I would truly ever get over the graves (they were gorgeous).
-![Chinese Grave](/images/grave.png)
+
+<p align="center" width="100%">
+    <img width="33%" src="/images/grave.png" alt="Chinese Grave">
+</p>
 
 We left the park after around 45-50 minutes, since we had to go to another museum.
 
@@ -138,7 +144,7 @@ Maybe we should take earthquake advice from palm trees.
 
 After that, we proceeded on the train smoothly to our destination. 15 minutes late, soaking wet, but there nevertheless. Huzzah.
 
-# Winds of Terror
+## Winds of Terror
 
 I will say I never truly understood the power of the monsoon season until I almost got killed by it. Alright that might be a little dramatic, but it almost happened twice in one week so I think I am allowed to be a bit dramatic.
 
@@ -149,4 +155,7 @@ I may not be prepared for the heat in Bangkok (let’s face it, I am not), but I
 I guess the moral of the story is to take weather more seriously, especially if you are like me and come from a nice temperate climate. I suppose I can be generous with my lack of a frame of reference, but still should have believed news sources and followed weather guidelines more firmly.
 
 Oh, and bring an extra umbrella. One of my friend’s broke after ten minutes.
-![Laurel’s umbrella](/images/umbrella.jpg) 
+
+<p align="center" width="100%">
+    <img width="33%" src="/images/umbrella.png" alt="Laurel's Umbrella">
+</p>
