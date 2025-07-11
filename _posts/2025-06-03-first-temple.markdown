@@ -26,7 +26,7 @@ The Buddha was big, taller than me just sitting, and was made of what appeared t
 
 The chairs appeared old, but well loved. They had little plaques, when translated were donor markings. There was a tip jar at the center of the room, right before the Buddha area, so the chairs were probably gifts from the community.
 
-After sitting in the chairs thoughtfully for a moment, we started to head out when I noticed a stack of pamphlets. After translating the note on top, we learned that they were all being given away for free. Granted, they were prays from the 2021 Lunar New Year, so that made sense.
+After sitting in the chairs thoughtfully for a moment, we started to head out when I noticed a stack of pamphlets. After translating the note on top, we learned that they were all being given away for free. Granted, they were prayers from the 2021 Lunar New Year, so that made sense.
 
 This was the first time I saw Thai writing up close, and so tangible. I remember tracing the letters of a script that seemed ever so slightly out of reach. The curves looped and the straight lines were stark. It was clearly computer generated, but the thoughtfulness in the calligraphy behind the original script was prominent.
 
@@ -46,11 +46,11 @@ The arrow on it pointed to this small marble staircase. My group shrugged, who w
 
 We headed up the stairs, one step at a time. The spiral staircase was cold, a testament to the small outcropping the stairs were enveloped in. Traveling up, we noticed that region was plain, a stark difference to all of the fabulously decorated rooms before (even the ceilings had patterns and focal points).
 
-Then we emerged onto the roof of the temple. Before, the marble was hot on the ground where the eaves failed to cover the ground, but on the roof this level had no covering at anypoint of the day, and it felt like hot coals. Each step was slight pain, but by walking fast enough it was barely noticeable.
+Then we emerged onto the roof of the temple. Before, the marble was hot where the eaves failed to cover the ground, but on the roof this level had no covering at anypoint of the day, and it felt like hot coals. Each step was slight pain, but by walking fast enough it was barely noticeable.
 
-We then wandered around the roof and had to go to the opposite side of the central chamber to find an open door to the “collections.” That room had the most Buddhas I have ever seen in my life. Some had different poses too, like the sculptures wanted to capture his beauty every way. It was stunning.
+We then wandered around the roof and had to go to the opposite side of the central chamber to find an open door to the “collections.” That room had the most Buddhas I have ever seen in my life. Some had different poses too, like the sculptures wanted to capture his beauty every angle. It was stunning.
 
-There was another donation box, but also a letter. After translating it, some of the larger Buddha was given as a gift to a Thai princess from India and a show of generosity and love toward Buddha. We thought it was magical to see two distinctly different countries united under the same religion, and using that religion to give, not take.
+There was another donation box, but also a letter. After translating it, we learned that some of the larger Buddhas were given as a gift to a Thai princess from India and a show of generosity and love toward Buddha. We thought it was magical to see two distinctly different countries united under the same religion, and using that religion to give, not take.
 
 We looked around the room a bit more, but this was the first room without fans, and thus from being mostly windows and in the sun all day, it was hot and stuffy. We left the way we came, across the slightly too hot roof to the freezing cold spiral staircase.
 
@@ -62,6 +62,6 @@ That was the last building that we could see (that was not a school), so we star
 
 It was a sight to see.
 
-Not just the pigeons, all of it. It made me realize that even if we do not consciously see it, religion is a major part of Thai’s lives. The people we say there praying showed me that even in silence, there is an enormous impact on your soul.
+Not just the pigeons, all of it. It made me realize that even if we do not consciously see it, religion is a major part of Thais' lives. The people we saw there praying showed me that even in silence, there is an enormous impact on your soul.
 
 And another thing I learned is that what I think of culture, what this culture is, is not what I had in mind at all, and I am very excited to learn more over the next eight weeks here.

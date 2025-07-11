@@ -21,7 +21,7 @@ Also important to note, there is a mall the size of a city block. I would know. 
 
 Regardless, my professors asked to see me and a classmate, one last dinner before they left to continue on their journey around east Asia. It was really quite an honor to be invited out, and I made sure to see everything.
 
-We wandered around the neighborhood, looking at all the different buildings with the distinct architecture. The other student and I were given advice on a restaurant to try, we told them to take pictures at the World Expo.
+We wandered around the neighborhood, looking at all the different buildings with the distinct architecture. The other student and I were given advice on a restaurant to try, we told our professors to take pictures at the World Expo.
 
 It is strange to be in a class with someone all semester (for two semesters, actually) and then be sharing a meal with them at a random restaurant on a street corner in Bangkok (we did talk about power dynamics during dessert).
 
@@ -31,7 +31,7 @@ And speaking of dessert, we went to a famous ice cream place and I got a milksha
     <img width="33%" src="/images/milkshake.png" alt="Samosorn Milkshake.">
 </p>
 
-And it didn’t hit me until I was home and opened my phone that friends had texted me. That I had a different life outside the world of Bangkok. Ban That Thong was beautiful (a little bit commercialized), and it felt like a dream to be wandering around a place that was so inferentially cultural.
+And it didn’t hit me until I was home and opened my phone that friends had texted me. That I had a different life outside the world of Bangkok. Ban That Thong was beautiful (a little bit commercialized), and it felt like a dream to be wandering around a place that was so intentially cultural.
 
 At my apartment, it just felt like a normal apartment. You could notice the Asian influences for sure, the furniture was a little shorter than I was used to, there was a balcony with my washer. My shower did not have a fan, instead you opened a window to let the steam come out, we had no oven because it’s already hot! Why do you have to make it more so?
 
