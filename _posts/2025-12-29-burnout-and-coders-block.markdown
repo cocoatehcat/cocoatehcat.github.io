@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Experiences with Burnout and Coder's Block"
-date:   2025-12-29 1956 +0700
+date:   2025-12-29 1956 -0500
 categories: programming
 ---
 I’ll admit it, or else no one else will, I think I am definitely experiencing some symptoms of burnout. From my (admittedly brief) research on the subject and the acknowledgement of my feelings, I think it’s true to name words to the situation and talk about it.
