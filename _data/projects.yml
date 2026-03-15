@@ -3,7 +3,8 @@
 - title: "Stage Crew"
   category: programming
   image: "/assets/images/stagecrew.png" 
-  description: "Arcade-style game built with a team of seven during GGJ 2026."
+  description: "Arcade-style game built with a team of eight during GGJ 2026."
+  long-desc: "Stage Crew is a single-player arcade-strategy game where you manage the chaos of opening night at a live theater. Keep runaway props in place and operate the lights as actors move across the stage. Your objective is to keep the audience satisfied or they'll walk out before the final curtain. The show must go on!"
   role: "Gameplay design & programmer — pitched game idea and built the core movement system in 48 hours."
   highlights: "Custom object detection, character controls, spotlight functionality."
   tags: [Unity, GGJ, Arcade]
@@ -11,10 +12,23 @@
     - { label: "GitHub", url: "https://github.com/Ceichert31/Global-Game-Jam" }
     - { label: "itch.io", url: "https://cocoatehcat.itch.io/stage-crew" }
   
+- title: "Celebrating Pysankarstvo "
+  category: programming
+  image: "/assets/images/egg.png" 
+  description: "Educational game built with a team of five for a class project."
+  long-desc: "Celebrating Pysankarstvo is a Google Doodle-inspired educational game celebrating the art of Ukrainian Easter Egg Decorating and Luba Perchyshyn, a woman who kept the art alive in the US."
+  role: "Programmer & Narrative Consultant — designed and built all systems in 6 weeks, created in-game dialogue."
+  highlights: "Dynamic cutscene system, custom code sharing mechanic, detailed research + VO coordination."
+  tags: [Unity, Educational, 2D]
+  links:
+    - { label: "itch.io", url: "https://wiploww.itch.io/celebrating-pysankarstvo" }
+
+  
 - title: "For the First Time"
   category: narrative
   image: "/assets/images/whlr2.png" 
   description: "A short fiction piece about falling in love for the first time."
+  long-desc: "For The First Time is a short story about falling in love, not for the first time ever, but for the first time with that specific someone."
   role: "Solo Writer - created story for class."
   highlights: "Symbolism, character development, dialogue."
   tags: [Fiction, Romance, Comedy]
