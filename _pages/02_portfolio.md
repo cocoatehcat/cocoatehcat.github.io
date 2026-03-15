@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: portfolio
 title: Portfolio
 permalink: /portfolio/
 ---
 
-Portfolio content goes here!
-
-(work in progress)
+Click on the tabs below to learn more!

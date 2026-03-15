@@ -28,7 +28,7 @@ It is strange to be in a class with someone all semester (for two semesters, act
 And speaking of dessert, we went to a famous ice cream place and I got a milkshake (see below) and it was a nice night talking about life, how men are easily intimidated, and why we love strong women.
 
 <p align="center" width="100%">
-    <img width="33%" src="/_assets/images/milkshake.png" alt="Samosorn Milkshake.">
+    <img width="33%" src="/assets/images/milkshake.png" alt="Samosorn Milkshake.">
 </p>
 
 And it didn’t hit me until I was home and opened my phone that friends had texted me. That I had a different life outside the world of Bangkok. Ban That Thong was beautiful (a little bit commercialized), and it felt like a dream to be wandering around a place that was so intentially cultural.
@@ -52,5 +52,5 @@ That might be a me problem though.
 Moral of this essay (as I make one up on the spot): cherish all memories. You never know when you’ll experience something like that ever again. And you never get to be 19 a second time.
 
 <p align="center" width="100%">
-    <img width="33%" src="/_assets/images/btt.png" alt="A sign in the neighborhood.">
+    <img width="33%" src="/assets/images/btt.png" alt="A sign in the neighborhood.">
 </p>

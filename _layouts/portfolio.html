@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+{{ content }}
+
+<div class="tab-group">
+  <button class="tab-btn active" onclick="switchTab(event,'programming')">Programming</button>
+  <button class="tab-btn" onclick="switchTab(event,'narrative')">Narrative</button>
+</div>
+
+<div class="tab-panel active" id="tab-programming">
+  <div class="project-grid">
+    {% for project in site.data.projects %}
+      {% if project.category == "programming" %}
+        {% include project-card.html project=project %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+<div class="tab-panel" id="tab-narrative">
+  <div class="project-grid">
+    {% for project in site.data.projects %}
+      {% if project.category == "narrative" %}
+        {% include project-card.html project=project %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+

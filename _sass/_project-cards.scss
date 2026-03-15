@@ -1,0 +1,106 @@
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 14px;
+    padding: 1rem 0;
+}
+
+.project-card {
+    background: $card-background;
+    border: 1px solid $card-border;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: border-color 0.15s, transform 0.15s;
+
+    &:hover {
+        transform: translateY(-2px);
+    }
+}
+
+.card-img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 1rem 1.25rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 8px;
+}
+
+.card-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+.card-desc {
+    font-size: 0.875rem;
+    flex: 1;
+    line-height: 1.55;
+}
+
+.card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.tag {
+    font-size: 0.7rem;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: rgba(0,0,0,0.06);
+}
+
+.card-link {
+    font-size: 0.875rem;
+    text-decoration: none;
+    margin-top: 4px;
+}
+
+.card-details {
+    display: grid;
+    grid-template-rows: 0fr; /* collapsed */
+    transition: grid-template-rows 0.28s ease;
+}
+
+.detail-label {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.detail-text {
+    font-size: 0.875rem;
+}
+
+.project-card.open .card-details {
+    grid-template-rows: 1fr; /* expanded */
+    padding: 1rem 1.25rem;
+}
+
+.card-details-inner {
+    overflow: hidden; /* clips during transition */
+}
+
+.tab-panel {
+    display: none;
+}
+
+.tab-panel.active {
+    display: block;
+}
+
+// He's too big
+.chevron {
+    width: 16px !important;
+    height: 16px !important;
+    flex-shrink: 0;
+    color: $heading-font-color;
+    transition: transform 0.25s;
+}

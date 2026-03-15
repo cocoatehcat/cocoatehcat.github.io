@@ -1,0 +1,20 @@
+# List of different Projects to include in Portfolio!
+  
+- title: "Stage Crew"
+  category: programming
+  description: "Arcade-style game built with a team of seven during GGJ 2026."
+  role: "Gameplay design & programmer — pitched game idea and built the core movement system in 48 hours."
+  highlights: "Custom object detection, character controls, spotlight functionality."
+  tags: [Unity, GGJ, Arcade]
+  links:
+    - { label: "GitHub", url: "https://github.com/Ceichert31/Global-Game-Jam" }
+    - { label: "itch.io", url: "https://cocoatehcat.itch.io/stage-crew" }
+  
+- title: "For the First Time"
+  category: narrative
+  description: "A short fiction piece about falling in love for the first time."
+  role: "Solo Writer - created story for class."
+  highlights: "Symbolism, character development, dialogue."
+  tags: [Fiction, Romance, Comedy]
+  links:
+    - { label: "Article", url: "https://www.whlreview.com/no-20.4/fiction/ArijaHartel.pdf" }

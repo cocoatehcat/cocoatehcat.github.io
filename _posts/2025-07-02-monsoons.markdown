@@ -39,7 +39,7 @@ We bought our tickets and got into this small boat. It was just the three of us,
 Leaving the dock, we saw the true length of the market (and it was greater than I expected) while seeing the nature that had been slowly integrating itself with the surrounding area. 
 
 <p align="center" width="100%">
-    <img width="33%" src="/_assets/images/tractor.png" alt="Tractor reclaimed to nature">
+    <img width="33%" src="/assets/images/tractor.png" alt="Tractor reclaimed to nature">
 </p>
 
 The more we traveled, the more I noticed that these houses we passed would fit right in back home. Sure, maybe their lawns were a little too messy for the average HOA, but it felt normal. Nothing like the third world country I had led to believe about Thailand and Southeast Asia.
@@ -103,7 +103,7 @@ I was astounded to not be phased by the amount of history literally 10 meters aw
 I suppose if you see it all the time then it looks normal, but I am not sure I would truly ever get over the graves (they were gorgeous).
 
 <p align="center" width="100%">
-    <img width="33%" src="/_assets/images/grave.png" alt="Chinese Grave">
+    <img width="33%" src="/assets/images/grave.png" alt="Chinese Grave">
 </p>
 
 We left the park after around 45-50 minutes, since we had to go to another museum.
@@ -157,5 +157,5 @@ I guess the moral of the story is to take weather more seriously, especially if 
 Oh, and bring an extra umbrella. One of my friend’s broke after ten minutes.
 
 <p align="center" width="100%">
-    <img width="33%" src="/_assets/images/umbrella.png" alt="Laurel's Umbrella">
+    <img width="33%" src="/assets/images/umbrella.png" alt="Laurel's Umbrella">
 </p>
