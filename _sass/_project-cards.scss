@@ -7,6 +7,7 @@
     border-radius: 10px;
     border-radius: 0 10px 10px 10px;
     border: 1px solid $card-border;
+    align-items: start; // this is super important
 }
 
 .project-card {
@@ -41,7 +42,7 @@
     padding: 1rem 1.25rem;
     display: flex;
     flex-direction: column;
-    flex: 1;
+    //flex: 1;
     gap: 8px;
 }
 
@@ -53,7 +54,7 @@
 
 .card-desc {
     font-size: 0.875rem;
-    flex: 1;
+    //flex: 1;
     line-height: 1.55;
     color: $card-text-color;
 }
@@ -78,30 +79,44 @@
     margin-top: 4px;
 }
 
+.detail-label {
+    font-size: 1rem;
+    font-weight: 600;
+    color: $card-text-color;
+    margin: 0 0 4px;
+}
+
+.detail-text {
+    font-size: 0.875rem;
+    color: $card-text-color;
+    line-height: 1.6;
+    margin: 0 0 12px;
+}
+
 .card-details {
     display: grid;
     grid-template-rows: 0fr; /* collapsed */
     transition: grid-template-rows 0.28s ease;
 }
 
-.detail-label {
-    font-size: 1rem;
-    font-weight: 600;
-    color: $card-text-color;
-}
-
-.detail-text {
-    font-size: 0.875rem;
-    color: $card-text-color;
+.project-card:not(.open) .card-details {
+    grid-template-rows: 0fr;
 }
 
 .project-card.open .card-details {
     grid-template-rows: 1fr; /* expanded */
-    padding: 1rem 1.25rem;
+    
 }
 
 .card-details-inner {
-    overflow: hidden; /* clips during transition */
+    overflow: hidden;
+    min-height: 0;
+    padding: 1rem 1.25rem;
+}
+
+.card-details-inner * {
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .tab-panel {
