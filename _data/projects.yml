@@ -2,6 +2,7 @@
   
 - title: "Stage Crew"
   category: programming
+  image: "/assets/images/stagecrew.png" 
   description: "Arcade-style game built with a team of seven during GGJ 2026."
   role: "Gameplay design & programmer — pitched game idea and built the core movement system in 48 hours."
   highlights: "Custom object detection, character controls, spotlight functionality."
@@ -12,6 +13,7 @@
   
 - title: "For the First Time"
   category: narrative
+  image: "/assets/images/whlr2.png" 
   description: "A short fiction piece about falling in love for the first time."
   role: "Solo Writer - created story for class."
   highlights: "Symbolism, character development, dialogue."

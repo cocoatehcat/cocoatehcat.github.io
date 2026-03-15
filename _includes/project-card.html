@@ -1,4 +1,7 @@
 <div class="project-card" id="card-{{ include.project.title | slugify }}">
+{% if include.project.image %}
+    <img src="{{ include.project.image }}" alt="{{ include.project.title }}" class="card-img">
+  {% endif %}
   <div class="card-body">
     <div class="card-header" onclick="toggleCard('card-{{ include.project.title | slugify }}')">
       <h3 class="card-title">{{ include.project.title }}</h3>
