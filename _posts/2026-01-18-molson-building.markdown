@@ -28,7 +28,7 @@ It didn’t take much to slip right through, to see right up onto the tracks. Ev
 
 Several objects were hidden in the snow, only brought to light when I stepped on them. These were often cups, bags, other objects that hinted towards someone staying down here in the warmer months.
 
-However, there were also larger objects, concrete, metal, something that looked to be powered by electricity. I felt like I was in a Stalenhag novel, a character who is stuck between the past and the technology of the future. Everything felt old and rusty, but somehow so new and defined. The snow was real and tangible and cold, and brought me to reality, but the train tracks and their design made me feel like I was peaking into the last century.
+However, there were also larger objects, concrete, metal, something that looked to be powered by electricity. I felt like I was in a Stålenhag novel, a character who is stuck between the past and the technology of the future. Everything felt old and rusty, but somehow so new and defined. The snow was real and tangible and cold, and brought me to reality, but the train tracks and their design made me feel like I was peaking into the last century.
 
 I somehow felt out of place with how old everything was, but also not old enough to truly understand what I was doing there.
 
