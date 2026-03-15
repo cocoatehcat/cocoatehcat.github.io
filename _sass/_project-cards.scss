@@ -3,6 +3,10 @@
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
     gap: 14px;
     padding: 1rem 0;
+    background: $card-background;
+    border-radius: 10px;
+    border-radius: 0 10px 10px 10px;
+    border: 1px solid $card-border;
 }
 
 .project-card {
@@ -25,6 +29,14 @@
     object-fit: cover;
 }
 
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    gap: 8px;
+}
+
 .card-body {
     padding: 1rem 1.25rem;
     display: flex;
@@ -43,6 +55,7 @@
     font-size: 0.875rem;
     flex: 1;
     line-height: 1.55;
+    color: $card-text-color;
 }
 
 .card-tags {
@@ -56,6 +69,7 @@
     padding: 2px 8px;
     border-radius: 4px;
     background: rgba(0,0,0,0.06);
+    color: $card-text-color;
 }
 
 .card-link {
@@ -73,10 +87,12 @@
 .detail-label {
     font-size: 1rem;
     font-weight: 600;
+    color: $card-text-color;
 }
 
 .detail-text {
     font-size: 0.875rem;
+    color: $card-text-color;
 }
 
 .project-card.open .card-details {
@@ -96,7 +112,6 @@
     display: block;
 }
 
-// He's too big
 .chevron {
     width: 16px !important;
     height: 16px !important;
