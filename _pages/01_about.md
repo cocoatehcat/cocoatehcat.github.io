@@ -8,4 +8,7 @@ permalink: /about/
 
 I'm Arija Hartel, a double major in Game Programming & Interactive Narrative for Games and Digital Media at Champlain College. From crafting immersive stories, to staying up late coding (once again), I am always exploring new avenues of knowledge and constantly being challenged.
 
-![ladybug.](/_assets/images/ladybug.png)
+<p align="center" width="100%">
+    <img width="33%" src="/assets/images/ladybug.png" alt="ladybug.">
+</p>
+
